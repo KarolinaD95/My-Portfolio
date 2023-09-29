@@ -1,0 +1,108 @@
+<<<<<<< HEAD
+  @import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat:ital,wght@1,100&family=Roboto+Condensed:ital@1&family=Roboto:wght@100;300;400&display=swap');
+
+  html {
+    box-sizing: border-box;
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #D1EDE1;
+  }
+
+  .button-container {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: inset 0 20px 4px -19px #7bc5ae;
+  }
+
+    button {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 1.5rem;
+        padding: 10px 20px;
+        width: 120px;
+        height: 75px;
+        color: white;
+        outline: none;
+        border: 2px solid black;
+        border-radius: 7px;
+        cursor: pointer;
+        transition: all 0.2s ease-in-out;
+        text-shadow: 0 2px 5px black;
+        background: linear-gradient(to top, #028C6A, #003E19);
+        box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255, 0.4), 0 12px 12px 0 rgba(0, 0, 0, 0.3);
+    }
+
+    button:hover {
+        background: linear-gradient(to bottom, #028C6A, #003E19);
+    }
+
+    button:active {
+        box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255, 0.4), 0 6px 6px 0 rgba(0, 0, 0, 0.3);
+        transform: translateY(4px);
+    }
+=======
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat:ital,wght@1,100&family=Roboto:wght@100;300;400&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Montserrate, sans-serif;
+    background: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 25px;  
+    margin-bottom: 15px;
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+/*Loader*/
+.loader {
+    position: fixed;
+    top: 0; 
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.loader img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Image Container */
+.image-container {
+    margin: 10px 30%;
+}
+
+.image-container img {
+    width: 100%;
+    margin-top: 5px;
+}
+
+/* Media Query: Large Smarthphone */
+@media screen and (max-width: 600px) {
+    h1{
+        font-size: 20px;
+    }
+    .image-container {
+        margin: 10px;
+    }
+    
+}
+>>>>>>> 8e4c935 (Creating a webpage with infinite scroll functionality)

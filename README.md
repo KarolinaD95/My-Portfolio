@@ -14,12 +14,11 @@ I'm an enthusiastic web developer with a strong foundation in front-end technolo
 
 Here are some of the projects I've worked on:
 
-### [Project Name 1]
+### [Joke-Teller App]
 
-- **Description:** [A brief description of the project, its purpose, and the problem it solves. Mention any technologies or skills used.]
-- **GitHub Repository:** [Link to the GitHub repository of this project]
-- **Live Demo:** [Link to a live demo or deployment (if applicable)]
-- **Screenshots/GIFs:** [Add screenshots, images, or GIFs showcasing the project (if available)]
+- **Description:** This project showcases my skills in front-end development and user interaction. Users can click a button to generate hilarious jokes, demonstrating my proficiency in JavaScript for dynamic content generation and manipulation.
+- **GitHub Repository:** https://github.com/KarolinaD95/My-Portfolio/tree/main/joke-teller-app 
+- **Live Demo:** https://karolinad95.github.io/My-Portfolio/joke-teller-app/ 
   
 ### [Project Name 2]
 

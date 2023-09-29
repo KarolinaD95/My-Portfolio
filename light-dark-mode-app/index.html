@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Light and Dark Mode</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <script src="https://kit.fontawesome.com/cffc5ea4a1.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Dark Mode Switch -->
+    <div class="theme-switch-wrapper">
+        <span id="toggle-icon">
+            <span class="toggle-text">Light Mode</span>
+            <i class="fa-solid fa-sun"></i>
+        </span>
+        <label class="theme-switch">
+            <input type="checkbox">
+            <div class="slider round"></div>
+        </label>
+    </div>
+    <!-- Navbar -->
+    <nav id="nav">
+            <a href="#home">HOME</a>
+            <a href="#about">ABOUT</a>
+            <a href="#projects">PROJECTS</a>
+            <a href="#contact">CONTACT</a>
+    </nav>
+    <!-- Home Section -->
+    <section id="home">
+        <div class="title-group">
+            <h1>This is it</h1>
+            <h2>Welcome to the LightMode-DarkMode Website!</h2>
+        </div>
+    </section>
+    <!-- About Section -->
+    <section id="about">
+            <h1>This is me</h1>
+            <div class="about-container">
+                <div class="image-container">
+                    <h2>Whoop! Whoop! Dogs!</h2>
+                    <img src="undraw_dog_light.svg" alt="Doggy" id="image1">
+                </div>
+                <div class="image-container">
+                    <h2>Study time!</h2>
+                    <img src="undraw_exams_light.svg" alt="Exams" id="image2">
+                </div>
+                <div class="image-container">
+                    <h2>Love is in the air!</h2>
+                    <img src="undraw_love_it_light.svg" alt="Love" id="image3">
+                </div>
+            </div>
+    </section>
+    <!-- Projects Section -->
+    <section id="projects">
+            <h1>Buttons</h1>
+            <div class="buttons">
+                <button class="primary">Primary</button>
+                <button class="secondary">Secondary</button>
+                <button class="primary" disabled>Disabled</button>
+                <button class="outline">Outline</button>
+                <button class="secondary outline">Alt Outline</button>
+                <button class="outline" disabled>Disabled</button>
+            </div>
+            <div class="text-box" id="text-box">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae accusamus molestias illo! Molestias, eligendi, iste eaque saepe cupiditate assumenda at pariatur, libero nostrum omnis sit. At vitae sint unde necessitatibus?</p>
+            </div>
+    </section>
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="social-icons">
+            <i class="fa-brands fa-github"></i>
+            <i class="fa-brands fa-linkedin"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-youtube"></i>
+            <i class="fa-brands fa-facebook"></i>
+        </div>
+    </section>
+    <script src="script.js"></script>
+    
+</body>
+</html>

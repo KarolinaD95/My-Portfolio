@@ -19,6 +19,19 @@
 - :zap: With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users. <br>
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-maria-dabrowska/)
 
+### :hammer_and_wrench: Languages and Tools :
+
+
+Here are some of the skills and technologies I'm proficient in:
+
+- HTML/CSS
+- JavaScript
+- TypeScript
+- React
+- Angular
+- Node.js
+- UI/UX Design
+
 ## Projects
 
 Here are some of the projects I've worked on:
@@ -69,17 +82,6 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/animated-template/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/animated-template/)
 
-## Skills
-
-Here are some of the skills and technologies I'm proficient in:
-
-- HTML/CSS
-- JavaScript
-- TypeScript
-- React
-- Angular
-- Node.js
-- UI/UX Design
 
 ## Contact Me
 

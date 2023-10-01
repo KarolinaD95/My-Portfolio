@@ -1,18 +1,7 @@
 # Karolina's Portfolio
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 Welcome to my portfolio! I'm Karolina, and I'm passionate about web development, design, and creating beautiful and functional user experiences.
@@ -21,7 +10,11 @@ Welcome to my portfolio! I'm Karolina, and I'm passionate about web development,
 
 - **Name:** Karolina Dabrowska
 - **Location:** Copenhagen, Denmark
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/karolina-maria-dabrowska/)
+- **LinkedIn:** <div id="badges">
+                    <a href="your-linkedin-URL">
+                      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                    </a>
+                </div>
 
 I'm an enthusiastic web developer with a strong foundation in front-end technologies. With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users.
 

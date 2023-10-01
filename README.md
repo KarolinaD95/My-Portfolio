@@ -1,5 +1,9 @@
 # Karolina's Portfolio
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Welcome to my portfolio! I'm Karolina, and I'm passionate about web development, design, and creating beautiful and functional user experiences.
 
 ## About Me

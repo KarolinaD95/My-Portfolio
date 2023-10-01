@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 👤 Karolina Dabrowska
+- 👩🏼‍💻 Karolina Dabrowska
 - 📍 Copenhagen, Denmark
 
 - :telescope: I'm an enthusiastic web developer with a strong foundation in front-end technologies. <br>

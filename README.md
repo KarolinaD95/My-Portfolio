@@ -1,7 +1,7 @@
 # Karolina's Portfolio
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="100"/>
+  <iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc">via GIPHY</a></p>
 </div>
 
 Welcome to my portfolio! I'm Karolina, and I'm passionate about web development, design, and creating beautiful and functional user experiences.

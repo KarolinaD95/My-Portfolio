@@ -13,7 +13,7 @@ Welcome to my portfolio! I'm Karolina, and I'm passionate about web development,
 
 I'm an enthusiastic web developer with a strong foundation in front-end technologies. With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users.
 <div id="badges">
-    <p>Visit my LinkedIn profile</p>
+    <p>My LinkedIn Profile <i class="fa-solid fa-arrow-down fa-bounce" style="color: #1777de;"></i></p>
     <a href="https://www.linkedin.com/in/karolina-maria-dabrowska/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>

@@ -1,16 +1,49 @@
-# Karolina's Portfolio
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
+</div>
+<div>
+  <h1>
+    <span style="display: inline;">hey there, welcome to my portfolio</span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="display: inline; margin-left: 10px;"/>
+  </h1>
+  <h3>I'm Karolina, and I'm passionate about web development, design, and creating beautiful and functional user experiences.</h3>
+</div>
 
-Welcome to my portfolio! I'm Karolina, and I'm passionate about web development, design, and creating beautiful and functional user experiences.
 
-## About Me
+## About Me :
 
-- **Name:** Karolina Dabrowska
-- **Location:** Copenhagen, Denmark
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/karolina-maria-dabrowska/)
+- 👩🏼‍💻 Karolina Dabrowska
+- 📍 Copenhagen, Denmark
 
-I'm an enthusiastic web developer with a strong foundation in front-end technologies. With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users.
+- :telescope: I'm an enthusiastic web developer with a strong foundation in front-end technologies. <br>
+- :zap: With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users. <br>
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-maria-dabrowska/)
+- 📎 [My resume](https://karolinad95.github.io/karolina_resume/)
 
-## Projects
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+</div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarolinaD95&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinaD95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🗂️ My Projects :
 
 Here are some of the projects I've worked on:
 
@@ -50,24 +83,20 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/spock-rock-game/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/spock-rock-game/)
 
+### [Navigation-Nation]
+- **Description:** Creating a cool looking navigation bar for my own website
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/navigation-nation/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/navigation-nation/)
 
-## Skills
+### [Animated-Template]
+- **Description:** Focusing on animating the provided templates
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/animated-template/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/animated-template/)
 
-Here are some of the skills and technologies I'm proficient in:
 
-- HTML/CSS
-- JavaScript
-- TypeScript
-- React
-- Angular
-- Node.js
-- UI/UX Design
-
-## Contact Me
+## 📞 Contact Me
 
 I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolina-maria-dabrowska/).
-
-Let's work together to create amazing digital experiences!
 
 ---
 

@@ -13,7 +13,7 @@
 ## About Me
 
 - **Name:** Karolina Dabrowska
-- **Location:** Copenhagen, Denmark
+- **Location:** 📍 Copenhagen, Denmark
 
 I'm an enthusiastic web developer with a strong foundation in front-end technologies. With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users.
 <div id="linkedin">

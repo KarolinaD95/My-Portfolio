@@ -42,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolinaD95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Projects
+## 🗂️ My Projects :
 
 Here are some of the projects I've worked on:
 
@@ -93,11 +93,9 @@ Here are some of the projects I've worked on:
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/animated-template/)
 
 
-## Contact Me
+## 📞 Contact Me
 
 I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolina-maria-dabrowska/).
-
-Let's work together to create amazing digital experiences!
 
 ---
 

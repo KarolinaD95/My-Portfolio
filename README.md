@@ -32,19 +32,19 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/quote-generator/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/quote-generator/)
 
-- ### [Picture-in-Picture]
+### [Picture-in-Picture]
 
 - **Description:** Share the screen of your choice with my own picture-in-picture website
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/picture-in-picture/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/picture-in-picture/)
 
-  ### [Light-Dark-Mode]
+### [Light-Dark-Mode]
 
 - **Description:** A functional website that aims at showing light-dark-mode functionality 
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/light-dark-mode-app/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/light-dark-mode-app/)
 
-- ### [Spock-Rock-Game]
+### [Spock-Rock-Game]
 
 - **Description:** More advanced version of Rock-Paper-Scissor game that showers you with confetti when you win against the computer
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/spock-rock-game/)

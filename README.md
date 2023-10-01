@@ -1,7 +1,18 @@
 # Karolina's Portfolio
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 Welcome to my portfolio! I'm Karolina, and I'm passionate about web development, design, and creating beautiful and functional user experiences.
@@ -54,6 +65,15 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/spock-rock-game/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/spock-rock-game/)
 
+### [Navigation-Nation]
+- **Description:** Creating a cool looking navigation bar for my own website
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/navigation-nation/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/navigation-nation/)
+
+### [Animated-Template]
+- **Description:** Focusing on animating the provided templates
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/animated-template/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/animated-template/)
 
 ## Skills
 

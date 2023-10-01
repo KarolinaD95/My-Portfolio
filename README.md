@@ -12,9 +12,9 @@ Welcome to my portfolio! I'm Karolina, and I'm passionate about web development,
 - **Location:** Copenhagen, Denmark
 
 I'm an enthusiastic web developer with a strong foundation in front-end technologies. With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users.
-<div id="linkedin>
+<div id="linkedin">
     <p>My LinkedIn Profile</p>
-    <i class="fa-solid fa-arrow-down fa-bounce"></i>
+   <i class="fa-solid fa-arrow-down fa-bounce"></i>
     <a href="https://www.linkedin.com/in/karolina-maria-dabrowska/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>

@@ -3,8 +3,11 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
 </div>
-
-Welcome to my portfolio! I'm Karolina, and I'm passionate about web development, design, and creating beautiful and functional user experiences.
+<h1>
+  hey there, welcome to my portfolio
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <p>I'm Karolina, and I'm passionate about web development, design, and creating beautiful and functional user experiences.</p>
+</h1>
 
 ## About Me
 
@@ -13,7 +16,7 @@ Welcome to my portfolio! I'm Karolina, and I'm passionate about web development,
 
 I'm an enthusiastic web developer with a strong foundation in front-end technologies. With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users.
 <div id="linkedin">
-    <p>My LinkedIn Profile</p>
+    <p>My LinkedIn Profile:</p>
     <a href="https://www.linkedin.com/in/karolina-maria-dabrowska/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>

@@ -16,7 +16,8 @@
 - **Location:** 📍 Copenhagen, Denmark
 
 :telescope: I'm an enthusiastic web developer with a strong foundation in front-end technologies. <br>
-:zap: With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users.
+:zap: With a keen eye for design and a dedication to crafting clean and efficient code, I aim to create digital experiences that delight users. <br>
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolina-maria-dabrowska/)
 <div id="linkedin">
     <p>My LinkedIn Profile:</p>
     <a href="https://www.linkedin.com/in/karolina-maria-dabrowska/">

@@ -92,7 +92,7 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/animated-template/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/animated-template/)
 
-### [Animated-Template]
+### [Music-Player]
 - **Description:** Creating fully functional music player
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/music-player/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/music-player/)

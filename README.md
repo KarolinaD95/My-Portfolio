@@ -97,6 +97,11 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/music-player/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/music-player/)
 
+  ### [Customer-Countdown]
+- **Description:** Making a customised countdown that stores values in local storage 
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/customer-countdown/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/customer-countdown/)
+
 ## 📞 Contact Me
 
 I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolina-maria-dabrowska/).

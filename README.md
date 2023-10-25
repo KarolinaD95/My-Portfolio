@@ -97,10 +97,15 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/music-player/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/music-player/)
 
-  ### [Customer-Countdown]
+### [Custom-Countdown]
 - **Description:** Making a customised countdown that stores values in local storage 
-- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/customer-countdown/)
-- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/customer-countdown/)
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/custom-countdown/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/custom-countdown/)
+
+### [Create-Your-Own-Bookmark-Page]
+- **Description:** Creating my own page to store bookmarks
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/bookmarks/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/bookmarks/)
 
 ## 📞 Contact Me
 

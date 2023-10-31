@@ -112,6 +112,16 @@ Here are some of the projects I've worked on:
 - **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/video-player/)
 - **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/video-player/)
 
+### [NASA-Photo-of-the-Day]
+- **Description:** Using NASA API, I have created a website that shows picture of the day with quote, date and author
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/nasa-photos/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/nasa-photos/)
+
+### [Math-Sprint-Game]
+- **Description:** Creating a cool math games that uses async functions and updated DOM with best scores
+- **GitHub Repository:** [Source Code](https://github.com/KarolinaD95/My-Portfolio/tree/main/math-sprint-game/)
+- **Live Demo:** [View Live](https://karolinad95.github.io/My-Portfolio/math-sprint-game/)
+
 ## 📞 Contact Me
 
 I'm always open to new opportunities and collaborations. If you'd like to get in touch or discuss potential projects, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/karolina-maria-dabrowska/).
